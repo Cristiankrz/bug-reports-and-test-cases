@@ -13,7 +13,6 @@ Each file contains curated examples from a sprint project.
 - [Sprint 3: Carsharing / Aero Taxi](Sprint3-BugReports.md)  
 - [Sprint 4: API Testing (Kits & Fast Delivery)](Sprint4-BugReports.md)  
 - [Sprint 6: Urban Lunch Mobile App](Sprint6-BugReports.md)  
-- [Sprint 8: Automation (Urban Routes)](Sprint8-BugReports.md)  
 - [Sprint 9: Final Project — Urban Scooter (Web, Mobile, API)](Sprint9-BugReports.md)  
 
 ---
